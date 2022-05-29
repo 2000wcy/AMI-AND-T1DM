@@ -1,0 +1,165 @@
+Term	Database	ID	Input number	Background number	PValue	p.adjust	Input	Hyperlink
+TNF signaling pathway	KEGG PATHWAY	hsa04668	7	112	1.37389859519e-08	1.9692546531e-06	CXCL1|MAP3K8|CREB5|TNFAIP3|TNF|MMP9|JAG1	http://www.genome.jp/kegg-bin/show_pathway?hsa04668/hsa:4318%09red/hsa:7128%09red/hsa:9586%09red/hsa:7124%09red/hsa:2919%09red/hsa:1326%09red/hsa:182%09red
+Osteoclast differentiation	KEGG PATHWAY	hsa04380	6	128	7.8292524705e-07	6.05807641765e-05	OSCAR|FCGR2C|FCGR2A|TNF|SIRPB1|LILRA2	http://www.genome.jp/kegg-bin/show_pathway?hsa04380/hsa:7124%09red/hsa:126014%09red/hsa:2212%09red/hsa:11027%09red/hsa:10326%09red/hsa:9103%09red
+Cytokine-cytokine receptor interaction	KEGG PATHWAY	hsa04060	7	294	7.19942672347e-06	0.000488803182804	CXCL1|IL1RN|IL13RA1|CCL4|TNFRSF10C|TNF|CSF3R	http://www.genome.jp/kegg-bin/show_pathway?hsa04060/hsa:3597%09red/hsa:3557%09red/hsa:7124%09red/hsa:8794%09red/hsa:2919%09red/hsa:1441%09red/hsa:6351%09red
+Leishmaniasis	KEGG PATHWAY	hsa05140	4	74	3.50070791821e-05	0.00141122287953	TNF|FCGR2C|TLR4|FCGR2A	http://www.genome.jp/kegg-bin/show_pathway?hsa05140/hsa:7124%09red/hsa:7099%09red/hsa:2212%09red/hsa:9103%09red
+Salmonella infection	KEGG PATHWAY	hsa05132	4	83	5.37575305995e-05	0.00192631151315	CXCL1|CCL4|TLR4|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05132/hsa:7099%09red/hsa:998%09red/hsa:2919%09red/hsa:6351%09red
+NOD-like receptor signaling pathway	KEGG PATHWAY	hsa04621	5	178	7.31189745107e-05	0.00248219676628	CXCL1|TNF|TLR4|TNFAIP3|NAMPT	http://www.genome.jp/kegg-bin/show_pathway?hsa04621/hsa:7124%09red/hsa:7099%09red/hsa:2919%09red/hsa:7128%09red/hsa:10135%09red
+IL-17 signaling pathway	KEGG PATHWAY	hsa04657	4	93	8.22006034362e-05	0.00271894303674	CXCL1|TNF|TNFAIP3|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa04657/hsa:7124%09red/hsa:4318%09red/hsa:2919%09red/hsa:7128%09red
+Viral protein interaction with cytokine and cytokine receptor	KEGG PATHWAY	hsa04061	4	100	0.000107734636943	0.00338288062074	TNFRSF10C|CXCL1|TNF|CCL4	http://www.genome.jp/kegg-bin/show_pathway?hsa04061/hsa:7124%09red/hsa:2919%09red/hsa:6351%09red/hsa:8794%09red
+NF-kappa B signaling pathway	KEGG PATHWAY	hsa04064	4	100	0.000107734636943	0.00338288062074	CCL4|TNF|TLR4|TNFAIP3	http://www.genome.jp/kegg-bin/show_pathway?hsa04064/hsa:7124%09red/hsa:7099%09red/hsa:7128%09red/hsa:6351%09red
+Toll-like receptor signaling pathway	KEGG PATHWAY	hsa04620	4	104	0.000124672680773	0.00365517632266	MAP3K8|TNF|CCL4|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa04620/hsa:7124%09red/hsa:7099%09red/hsa:6351%09red/hsa:1326%09red
+Proteoglycans in cancer	KEGG PATHWAY	hsa05205	5	203	0.000133377746198	0.00375301363092	CDC42|TNF|THBS1|TLR4|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa05205/hsa:7124%09red/hsa:7099%09red/hsa:4318%09red/hsa:998%09red/hsa:7057%09red
+Parathyroid hormone synthesis, secretion and action	KEGG PATHWAY	hsa04928	4	106	0.000133828393041	0.00375301363092	MMP25|CREB5|EGR1|PDE4D	http://www.genome.jp/kegg-bin/show_pathway?hsa04928/hsa:5144%09red/hsa:64386%09red/hsa:1958%09red/hsa:9586%09red
+Metabolic pathways	KEGG PATHWAY	hsa01100	12	1433	0.000138896839055	0.00381227494429	NPL|HAL|ST3GAL6|ENTPD1|B3GNT5|PDE4D|ACSL1|NAMPT|SCD5|LPCAT2|CYP4F3|PYGL	http://www.genome.jp/kegg-bin/show_pathway?hsa01100/hsa:10402%09red/hsa:5144%09red/hsa:953%09red/hsa:80896%09red/hsa:5836%09red/hsa:84002%09red/hsa:3034%09red/hsa:10135%09red/hsa:4051%09red/hsa:79966%09red/hsa:54947%09red/hsa:2180%09red
+Yersinia infection	KEGG PATHWAY	hsa05135	4	121	0.000218736368616	0.00522536880583	SKAP2|TNF|TLR4|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05135/hsa:7124%09red/hsa:7099%09red/hsa:8935%09red/hsa:998%09red
+Malaria	KEGG PATHWAY	hsa05144	3	49	0.000251804459328	0.00560047849196	TNF|TLR4|THBS1	http://www.genome.jp/kegg-bin/show_pathway?hsa05144/hsa:7124%09red/hsa:7099%09red/hsa:7057%09red
+Legionellosis	KEGG PATHWAY	hsa05134	3	55	0.00034802178108	0.00672335000092	CXCL1|TNF|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05134/hsa:7124%09red/hsa:7099%09red/hsa:2919%09red
+Phagosome	KEGG PATHWAY	hsa04145	4	152	0.000507057907335	0.0089603383625	FCGR2A|FCGR2C|TLR4|THBS1	http://www.genome.jp/kegg-bin/show_pathway?hsa04145/hsa:7099%09red/hsa:7057%09red/hsa:2212%09red/hsa:9103%09red
+Necroptosis	KEGG PATHWAY	hsa04217	4	162	0.000640178289679	0.0103228749211	TNF|PYGL|TLR4|TNFAIP3	http://www.genome.jp/kegg-bin/show_pathway?hsa04217/hsa:7124%09red/hsa:7099%09red/hsa:7128%09red/hsa:5836%09red
+Hepatitis B	KEGG PATHWAY	hsa05161	4	163	0.000654724959449	0.010427101206	CREB5|TNF|TLR4|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa05161/hsa:7124%09red/hsa:7099%09red/hsa:4318%09red/hsa:9586%09red
+MAPK signaling pathway	KEGG PATHWAY	hsa04010	5	295	0.000714107115408	0.0112341241326	AREG|MAP3K8|TNF|RASGRP4|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04010/hsa:7124%09red/hsa:998%09red/hsa:374%09red/hsa:1326%09red/hsa:115727%09red
+Tuberculosis	KEGG PATHWAY	hsa05152	4	179	0.000920559466268	0.0131946856832	TNF|FCGR2C|TLR4|FCGR2A	http://www.genome.jp/kegg-bin/show_pathway?hsa05152/hsa:7124%09red/hsa:7099%09red/hsa:2212%09red/hsa:9103%09red
+Transcriptional misregulation in cancer	KEGG PATHWAY	hsa05202	4	186	0.00105779936454	0.0145166083006	UTY|BCL6|GZMB|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa05202/hsa:4318%09red/hsa:604%09red/hsa:3002%09red/hsa:7404%09red
+Human papillomavirus infection	KEGG PATHWAY	hsa05165	5	330	0.00116726465392	0.015685118787	THBS1|CREB5|TNF|JAG1|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05165/hsa:7124%09red/hsa:182%09red/hsa:998%09red/hsa:7057%09red/hsa:9586%09red
+Rheumatoid arthritis	KEGG PATHWAY	hsa05323	3	91	0.00142279372574	0.0179941559432	CXCL1|TNF|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05323/hsa:7124%09red/hsa:7099%09red/hsa:2919%09red
+PI3K-Akt signaling pathway	KEGG PATHWAY	hsa04151	5	354	0.00158231660883	0.0188054996247	AREG|CREB5|CSF3R|TLR4|THBS1	http://www.genome.jp/kegg-bin/show_pathway?hsa04151/hsa:7099%09red/hsa:374%09red/hsa:1441%09red/hsa:7057%09red/hsa:9586%09red
+Amoebiasis	KEGG PATHWAY	hsa05146	3	95	0.00160356973544	0.0188054996247	CXCL1|TNF|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05146/hsa:7124%09red/hsa:7099%09red/hsa:2919%09red
+Pathways in cancer	KEGG PATHWAY	hsa05200	6	530	0.00165133262068	0.0190175785294	IL13RA1|RASGRP4|CSF3R|MMP9|JAG1|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05200/hsa:3597%09red/hsa:115727%09red/hsa:998%09red/hsa:4318%09red/hsa:1441%09red/hsa:182%09red
+AGE-RAGE signaling pathway in diabetic complications	KEGG PATHWAY	hsa04933	3	100	0.00184894323482	0.020385784384	EGR1|TNF|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04933/hsa:7124%09red/hsa:998%09red/hsa:1958%09red
+T cell receptor signaling pathway	KEGG PATHWAY	hsa04660	3	103	0.00200678932364	0.0215729852292	MAP3K8|TNF|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04660/hsa:7124%09red/hsa:998%09red/hsa:1326%09red
+Glycosphingolipid biosynthesis - lacto and neolacto series	KEGG PATHWAY	hsa00601	2	27	0.00210826737014	0.0216458018378	B3GNT5|ST3GAL6	http://www.genome.jp/kegg-bin/show_pathway?hsa00601/hsa:10402%09red/hsa:84002%09red
+Insulin resistance	KEGG PATHWAY	hsa04931	3	108	0.00228804386351	0.022704435261	CREB5|TNF|PYGL	http://www.genome.jp/kegg-bin/show_pathway?hsa04931/hsa:7124%09red/hsa:9586%09red/hsa:5836%09red
+Toxoplasmosis	KEGG PATHWAY	hsa05145	3	113	0.00259258852073	0.0242350666068	PPIF|TNF|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05145/hsa:7124%09red/hsa:7099%09red/hsa:10105%09red
+Allograft rejection	KEGG PATHWAY	hsa05330	2	38	0.00398328998649	0.032521797991	TNF|GZMB	http://www.genome.jp/kegg-bin/show_pathway?hsa05330/hsa:7124%09red/hsa:3002%09red
+Graft-versus-host disease	KEGG PATHWAY	hsa05332	2	41	0.0045904958001	0.0346300560359	TNF|GZMB	http://www.genome.jp/kegg-bin/show_pathway?hsa05332/hsa:7124%09red/hsa:3002%09red
+Bladder cancer	KEGG PATHWAY	hsa05219	2	41	0.0045904958001	0.0346300560359	THBS1|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa05219/hsa:4318%09red/hsa:7057%09red
+Type I diabetes mellitus	KEGG PATHWAY	hsa04940	2	43	0.00501753757623	0.0369864198477	TNF|GZMB	http://www.genome.jp/kegg-bin/show_pathway?hsa04940/hsa:7124%09red/hsa:3002%09red
+Pathogenic Escherichia coli infection	KEGG PATHWAY	hsa05130	2	55	0.00794327621006	0.0520143467562	TLR4|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05130/hsa:7099%09red/hsa:998%09red
+Fatty acid metabolism	KEGG PATHWAY	hsa01212	2	57	0.00848992085853	0.0544875517786	ACSL1|SCD5	http://www.genome.jp/kegg-bin/show_pathway?hsa01212/hsa:2180%09red/hsa:79966%09red
+Neuroactive ligand-receptor interaction	KEGG PATHWAY	hsa04080	4	338	0.00861383782212	0.0550091623294	PTGDR|ADM|GZMA|P2RY13	http://www.genome.jp/kegg-bin/show_pathway?hsa04080/hsa:53829%09red/hsa:5729%09red/hsa:3001%09red/hsa:133%09red
+Chemokine signaling pathway	KEGG PATHWAY	hsa04062	3	190	0.01060717964	0.06308699984	CXCL1|CCL4|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04062/hsa:998%09red/hsa:2919%09red/hsa:6351%09red
+Inflammatory bowel disease (IBD)	KEGG PATHWAY	hsa05321	2	65	0.0108391311449	0.06308699984	TNF|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05321/hsa:7124%09red/hsa:7099%09red
+Staphylococcus aureus infection	KEGG PATHWAY	hsa05150	2	68	0.011785739347	0.06308699984	FCGR2C|FCGR2A	http://www.genome.jp/kegg-bin/show_pathway?hsa05150/hsa:2212%09red/hsa:9103%09red
+Adipocytokine signaling pathway	KEGG PATHWAY	hsa04920	2	69	0.0121090753274	0.06308699984	ACSL1|TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa04920/hsa:7124%09red/hsa:2180%09red
+Epstein-Barr virus infection	KEGG PATHWAY	hsa05169	3	201	0.0123091218414	0.06308699984	TNF|ENTPD1|TNFAIP3	http://www.genome.jp/kegg-bin/show_pathway?hsa05169/hsa:7124%09red/hsa:953%09red/hsa:7128%09red
+Epithelial cell signaling in Helicobacter pylori infection	KEGG PATHWAY	hsa05120	2	70	0.0124362786817	0.06308699984	CXCL1|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05120/hsa:998%09red/hsa:2919%09red
+Gastric acid secretion	KEGG PATHWAY	hsa04971	2	75	0.0141296277912	0.06308699984	KCNJ2|KCNJ15	http://www.genome.jp/kegg-bin/show_pathway?hsa04971/hsa:3759%09red/hsa:3772%09red
+Pertussis	KEGG PATHWAY	hsa05133	2	76	0.0144796293753	0.06308699984	TNF|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05133/hsa:7124%09red/hsa:7099%09red
+PPAR signaling pathway	KEGG PATHWAY	hsa03320	2	76	0.0144796293753	0.06308699984	ACSL1|SCD5	http://www.genome.jp/kegg-bin/show_pathway?hsa03320/hsa:2180%09red/hsa:79966%09red
+cAMP signaling pathway	KEGG PATHWAY	hsa04024	3	214	0.0145113520232	0.06308699984	FFAR2|CREB5|PDE4D	http://www.genome.jp/kegg-bin/show_pathway?hsa04024/hsa:5144%09red/hsa:2867%09red/hsa:9586%09red
+Human T-cell leukemia virus 1 infection	KEGG PATHWAY	hsa05166	3	219	0.0154139668836	0.06308699984	CREB5|EGR1|TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa05166/hsa:7124%09red/hsa:1958%09red/hsa:9586%09red
+Human cytomegalovirus infection	KEGG PATHWAY	hsa05163	3	225	0.0165381475577	0.0638748812856	CREB5|TNF|CCL4	http://www.genome.jp/kegg-bin/show_pathway?hsa05163/hsa:7124%09red/hsa:6351%09red/hsa:9586%09red
+ErbB signaling pathway	KEGG PATHWAY	hsa04012	2	85	0.017795350587	0.0652373928168	NRG1|AREG	http://www.genome.jp/kegg-bin/show_pathway?hsa04012/hsa:3084%09red/hsa:374%09red
+GnRH signaling pathway	KEGG PATHWAY	hsa04912	2	93	0.0209854729769	0.066205430192	EGR1|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04912/hsa:998%09red/hsa:1958%09red
+TGF-beta signaling pathway	KEGG PATHWAY	hsa04350	2	94	0.021399813164	0.066205430192	TNF|THBS1	http://www.genome.jp/kegg-bin/show_pathway?hsa04350/hsa:7124%09red/hsa:7057%09red
+Fc gamma R-mediated phagocytosis	KEGG PATHWAY	hsa04666	2	94	0.021399813164	0.066205430192	FCGR2A|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04666/hsa:998%09red/hsa:2212%09red
+Hematopoietic cell lineage	KEGG PATHWAY	hsa04640	2	97	0.0226631694691	0.066205430192	TNF|CSF3R	http://www.genome.jp/kegg-bin/show_pathway?hsa04640/hsa:7124%09red/hsa:1441%09red
+Prostate cancer	KEGG PATHWAY	hsa05215	2	97	0.0226631694691	0.066205430192	CREB5|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa05215/hsa:4318%09red/hsa:9586%09red
+Endocrine resistance	KEGG PATHWAY	hsa01522	2	98	0.0230910076757	0.066205430192	JAG1|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa01522/hsa:4318%09red/hsa:182%09red
+Chagas disease (American trypanosomiasis)	KEGG PATHWAY	hsa05142	2	103	0.0252798031194	0.0687770396334	TNF|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05142/hsa:7124%09red/hsa:7099%09red
+Glucagon signaling pathway	KEGG PATHWAY	hsa04922	2	106	0.0266321375302	0.071352944068	CREB5|PYGL	http://www.genome.jp/kegg-bin/show_pathway?hsa04922/hsa:9586%09red/hsa:5836%09red
+Cholinergic synapse	KEGG PATHWAY	hsa04725	2	112	0.0294225216525	0.0721682758364	KCNJ2|CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04725/hsa:3759%09red/hsa:9586%09red
+Leukocyte transendothelial migration	KEGG PATHWAY	hsa04670	2	112	0.0294225216525	0.0721682758364	CDC42|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa04670/hsa:4318%09red/hsa:998%09red
+AMPK signaling pathway	KEGG PATHWAY	hsa04152	2	120	0.0333154713249	0.0756037033209	CREB5|SCD5	http://www.genome.jp/kegg-bin/show_pathway?hsa04152/hsa:79966%09red/hsa:9586%09red
+Purine metabolism	KEGG PATHWAY	hsa00230	2	130	0.0384469578682	0.0781862241094	PDE4D|ENTPD1	http://www.genome.jp/kegg-bin/show_pathway?hsa00230/hsa:5144%09red/hsa:953%09red
+Relaxin signaling pathway	KEGG PATHWAY	hsa04926	2	130	0.0384469578682	0.0781862241094	CREB5|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa04926/hsa:4318%09red/hsa:9586%09red
+Natural killer cell mediated cytotoxicity	KEGG PATHWAY	hsa04650	2	131	0.038975759556	0.0781862241094	TNF|GZMB	http://www.genome.jp/kegg-bin/show_pathway?hsa04650/hsa:7124%09red/hsa:3002%09red
+Systemic lupus erythematosus	KEGG PATHWAY	hsa05322	2	133	0.0400416959873	0.0799587104257	TNF|FCGR2A	http://www.genome.jp/kegg-bin/show_pathway?hsa05322/hsa:7124%09red/hsa:2212%09red
+Apoptosis	KEGG PATHWAY	hsa04210	2	136	0.0416612001777	0.0805741352762	TNF|GZMB	http://www.genome.jp/kegg-bin/show_pathway?hsa04210/hsa:7124%09red/hsa:3002%09red
+Apelin signaling pathway	KEGG PATHWAY	hsa04371	2	137	0.0422064663531	0.0807861304982	EGR1|JAG1	http://www.genome.jp/kegg-bin/show_pathway?hsa04371/hsa:182%09red/hsa:1958%09red
+Measles	KEGG PATHWAY	hsa05162	2	138	0.0427544226779	0.0807861304982	TLR4|TNFAIP3	http://www.genome.jp/kegg-bin/show_pathway?hsa05162/hsa:7099%09red/hsa:7128%09red
+Estrogen signaling pathway	KEGG PATHWAY	hsa04915	2	138	0.0427544226779	0.0807861304982	CREB5|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa04915/hsa:4318%09red/hsa:9586%09red
+Fluid shear stress and atherosclerosis	KEGG PATHWAY	hsa05418	2	139	0.0433050538915	0.0807861304982	TNF|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa05418/hsa:7124%09red/hsa:4318%09red
+Fatty acid biosynthesis	KEGG PATHWAY	hsa00061	1	18	0.0435243106172	0.0807861304982	ACSL1	http://www.genome.jp/kegg-bin/show_pathway?hsa00061/hsa:2180%09red
+Non-alcoholic fatty liver disease (NAFLD)	KEGG PATHWAY	hsa04932	2	149	0.0489551668643	0.0873473931604	TNF|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04932/hsa:7124%09red/hsa:998%09red
+Histidine metabolism	KEGG PATHWAY	hsa00340	1	23	0.0546631752967	0.0926616243531	HAL	http://www.genome.jp/kegg-bin/show_pathway?hsa00340/hsa:3034%09red
+Jak-STAT signaling pathway	KEGG PATHWAY	hsa04630	2	162	0.0566735568595	0.0952849319439	IL13RA1|CSF3R	http://www.genome.jp/kegg-bin/show_pathway?hsa04630/hsa:3597%09red/hsa:1441%09red
+Influenza A	KEGG PATHWAY	hsa05164	2	167	0.0597484850998	0.0986882788461	TNF|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05164/hsa:7124%09red/hsa:7099%09red
+cGMP-PKG signaling pathway	KEGG PATHWAY	hsa04022	2	167	0.0597484850998	0.0986882788461	PPIF|CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04022/hsa:10105%09red/hsa:9586%09red
+Biosynthesis of unsaturated fatty acids	KEGG PATHWAY	hsa01040	1	27	0.0634818014943	0.102031594853	SCD5	http://www.genome.jp/kegg-bin/show_pathway?hsa01040/hsa:79966%09red
+Nicotinate and nicotinamide metabolism	KEGG PATHWAY	hsa00760	1	30	0.0700423253656	0.107182206076	NAMPT	http://www.genome.jp/kegg-bin/show_pathway?hsa00760/hsa:10135%09red
+Asthma	KEGG PATHWAY	hsa05310	1	31	0.0722190485832	0.108328572875	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa05310/hsa:7124%09red
+Antifolate resistance	KEGG PATHWAY	hsa01523	1	31	0.0722190485832	0.108328572875	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa01523/hsa:7124%09red
+Huntington disease	KEGG PATHWAY	hsa05016	2	193	0.0766094625096	0.112815304381	PPIF|CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa05016/hsa:10105%09red/hsa:9586%09red
+Focal adhesion	KEGG PATHWAY	hsa04510	2	199	0.0806925761174	0.117488288936	THBS1|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04510/hsa:998%09red/hsa:7057%09red
+Prion diseases	KEGG PATHWAY	hsa05020	1	35	0.0808756593605	0.117488288936	EGR1	http://www.genome.jp/kegg-bin/show_pathway?hsa05020/hsa:1958%09red
+Viral carcinogenesis	KEGG PATHWAY	hsa05203	2	201	0.0820684832059	0.119087000378	CREB5|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05203/hsa:998%09red/hsa:9586%09red
+Starch and sucrose metabolism	KEGG PATHWAY	hsa00500	1	36	0.0830272990383	0.119804491901	PYGL	http://www.genome.jp/kegg-bin/show_pathway?hsa00500/hsa:5836%09red
+African trypanosomiasis	KEGG PATHWAY	hsa05143	1	37	0.0851739564211	0.122354569915	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa05143/hsa:7124%09red
+Rap1 signaling pathway	KEGG PATHWAY	hsa04015	2	210	0.0883486794725	0.125655784476	THBS1|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04015/hsa:998%09red/hsa:7057%09red
+Human immunodeficiency virus 1 infection	KEGG PATHWAY	hsa05170	2	212	0.0897634050514	0.127107346341	TNF|TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05170/hsa:7124%09red/hsa:7099%09red
+Ferroptosis	KEGG PATHWAY	hsa04216	1	40	0.0915841487748	0.128837024994	ACSL1	http://www.genome.jp/kegg-bin/show_pathway?hsa04216/hsa:2180%09red
+Fatty acid degradation	KEGG PATHWAY	hsa00071	1	44	0.100062009068	0.137758795835	ACSL1	http://www.genome.jp/kegg-bin/show_pathway?hsa00071/hsa:2180%09red
+Vasopressin-regulated water reabsorption	KEGG PATHWAY	hsa04962	1	44	0.100062009068	0.137758795835	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04962/hsa:9586%09red
+Thermogenesis	KEGG PATHWAY	hsa04714	2	231	0.103527209945	0.141888493159	CREB5|ACSL1	http://www.genome.jp/kegg-bin/show_pathway?hsa04714/hsa:2180%09red/hsa:9586%09red
+Ras signaling pathway	KEGG PATHWAY	hsa04014	2	232	0.10426703705	0.141888493159	RASGRP4|CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04014/hsa:998%09red/hsa:115727%09red
+Type II diabetes mellitus	KEGG PATHWAY	hsa04930	1	46	0.10427154381	0.141888493159	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa04930/hsa:7124%09red
+Ether lipid metabolism	KEGG PATHWAY	hsa00565	1	47	0.106369001571	0.143681687986	LPCAT2	http://www.genome.jp/kegg-bin/show_pathway?hsa00565/hsa:54947%09red
+Amino sugar and nucleotide sugar metabolism	KEGG PATHWAY	hsa00520	1	48	0.108461601139	0.145442271798	NPL	http://www.genome.jp/kegg-bin/show_pathway?hsa00520/hsa:80896%09red
+Notch signaling pathway	KEGG PATHWAY	hsa04330	1	48	0.108461601139	0.145442271798	JAG1	http://www.genome.jp/kegg-bin/show_pathway?hsa04330/hsa:182%09red
+Cocaine addiction	KEGG PATHWAY	hsa05030	1	49	0.110549353645	0.14793430104	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa05030/hsa:9586%09red
+Amyotrophic lateral sclerosis (ALS)	KEGG PATHWAY	hsa05014	1	51	0.114710361859	0.152239060492	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa05014/hsa:7124%09red
+Autoimmune thyroid disease	KEGG PATHWAY	hsa05320	1	53	0.118852114744	0.155181404879	GZMB	http://www.genome.jp/kegg-bin/show_pathway?hsa05320/hsa:3002%09red
+Pyrimidine metabolism	KEGG PATHWAY	hsa00240	1	57	0.12707820665	0.163277775477	ENTPD1	http://www.genome.jp/kegg-bin/show_pathway?hsa00240/hsa:953%09red
+VEGF signaling pathway	KEGG PATHWAY	hsa04370	1	59	0.131162720737	0.16604505373	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04370/hsa:998%09red
+Cytosolic DNA-sensing pathway	KEGG PATHWAY	hsa04623	1	63	0.139275119877	0.173757161162	CCL4	http://www.genome.jp/kegg-bin/show_pathway?hsa04623/hsa:6351%09red
+Arachidonic acid metabolism	KEGG PATHWAY	hsa00590	1	63	0.139275119877	0.173757161162	CYP4F3	http://www.genome.jp/kegg-bin/show_pathway?hsa00590/hsa:4051%09red
+Cortisol synthesis and secretion	KEGG PATHWAY	hsa04927	1	65	0.143303177629	0.177751056867	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04927/hsa:9586%09red
+Shigellosis	KEGG PATHWAY	hsa05131	1	68	0.149310328334	0.183263866366	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05131/hsa:998%09red
+Amphetamine addiction	KEGG PATHWAY	hsa05031	1	68	0.149310328334	0.183263866366	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa05031/hsa:9586%09red
+Fc epsilon RI signaling pathway	KEGG PATHWAY	hsa04664	1	68	0.149310328334	0.183263866366	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa04664/hsa:7124%09red
+Renal cell carcinoma	KEGG PATHWAY	hsa05211	1	69	0.151303438319	0.185181627544	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05211/hsa:998%09red
+Renin secretion	KEGG PATHWAY	hsa04924	1	69	0.151303438319	0.185181627544	KCNJ2	http://www.genome.jp/kegg-bin/show_pathway?hsa04924/hsa:3759%09red
+RIG-I-like receptor signaling pathway	KEGG PATHWAY	hsa04622	1	70	0.153291929219	0.186729545507	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa04622/hsa:7124%09red
+MicroRNAs in cancer	KEGG PATHWAY	hsa05206	2	299	0.156668411273	0.189587919583	THBS1|MMP9	http://www.genome.jp/kegg-bin/show_pathway?hsa05206/hsa:4318%09red/hsa:7057%09red
+Bile secretion	KEGG PATHWAY	hsa04976	1	72	0.157255096088	0.189587919583	AQP9	http://www.genome.jp/kegg-bin/show_pathway?hsa04976/hsa:366%09red
+Adherens junction	KEGG PATHWAY	hsa04520	1	72	0.157255096088	0.189587919583	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04520/hsa:998%09red
+p53 signaling pathway	KEGG PATHWAY	hsa04115	1	72	0.157255096088	0.189587919583	THBS1	http://www.genome.jp/kegg-bin/show_pathway?hsa04115/hsa:7057%09red
+Thyroid hormone synthesis	KEGG PATHWAY	hsa04918	1	74	0.161199913354	0.192722787977	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04918/hsa:9586%09red
+Bacterial invasion of epithelial cells	KEGG PATHWAY	hsa05100	1	74	0.161199913354	0.192722787977	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05100/hsa:998%09red
+Pancreatic cancer	KEGG PATHWAY	hsa05212	1	75	0.16316546716	0.194352218501	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa05212/hsa:998%09red
+Antigen processing and presentation	KEGG PATHWAY	hsa04612	1	77	0.167082917458	0.197921913242	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa04612/hsa:7124%09red
+EGFR tyrosine kinase inhibitor resistance	KEGG PATHWAY	hsa01521	1	79	0.170982227514	0.201615240853	NRG1	http://www.genome.jp/kegg-bin/show_pathway?hsa01521/hsa:3084%09red
+B cell receptor signaling pathway	KEGG PATHWAY	hsa04662	1	82	0.176797361283	0.206210303848	LILRA2	http://www.genome.jp/kegg-bin/show_pathway?hsa04662/hsa:11027%09red
+Peroxisome	KEGG PATHWAY	hsa04146	1	83	0.178726758852	0.207709476504	ACSL1	http://www.genome.jp/kegg-bin/show_pathway?hsa04146/hsa:2180%09red
+Insulin secretion	KEGG PATHWAY	hsa04911	1	86	0.18448815441	0.211923169358	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04911/hsa:9586%09red
+ECM-receptor interaction	KEGG PATHWAY	hsa04512	1	86	0.18448815441	0.211923169358	THBS1	http://www.genome.jp/kegg-bin/show_pathway?hsa04512/hsa:7057%09red
+Colorectal cancer	KEGG PATHWAY	hsa05210	1	86	0.18448815441	0.211923169358	AREG	http://www.genome.jp/kegg-bin/show_pathway?hsa05210/hsa:374%09red
+PD-L1 expression and PD-1 checkpoint pathway in cancer	KEGG PATHWAY	hsa05235	1	89	0.190209568898	0.217526900601	TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa05235/hsa:7099%09red
+Longevity regulating pathway	KEGG PATHWAY	hsa04211	1	89	0.190209568898	0.217526900601	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04211/hsa:9586%09red
+Hypertrophic cardiomyopathy (HCM)	KEGG PATHWAY	hsa05410	1	90	0.192107869863	0.219115077032	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa05410/hsa:7124%09red
+Morphine addiction	KEGG PATHWAY	hsa05032	1	91	0.19400176911	0.220689843168	PDE4D	http://www.genome.jp/kegg-bin/show_pathway?hsa05032/hsa:5144%09red
+Th1 and Th2 cell differentiation	KEGG PATHWAY	hsa04658	1	92	0.195891276735	0.222446960377	JAG1	http://www.genome.jp/kegg-bin/show_pathway?hsa04658/hsa:182%09red
+Dilated cardiomyopathy (DCM)	KEGG PATHWAY	hsa05414	1	96	0.203405592104	0.228764789725	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa05414/hsa:7124%09red
+Glycerophospholipid metabolism	KEGG PATHWAY	hsa00564	1	97	0.205273292237	0.229266274447	LPCAT2	http://www.genome.jp/kegg-bin/show_pathway?hsa00564/hsa:54947%09red
+Aldosterone synthesis and secretion	KEGG PATHWAY	hsa04925	1	98	0.207136660837	0.230748093679	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04925/hsa:9586%09red
+C-type lectin receptor signaling pathway	KEGG PATHWAY	hsa04625	1	104	0.218226465043	0.240814490937	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa04625/hsa:7124%09red
+HIF-1 signaling pathway	KEGG PATHWAY	hsa04066	1	109	0.227350659717	0.249602000881	TLR4	http://www.genome.jp/kegg-bin/show_pathway?hsa04066/hsa:7099%09red
+Neurotrophin signaling pathway	KEGG PATHWAY	hsa04722	1	119	0.24528421503	0.267695970718	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04722/hsa:998%09red
+Sphingolipid signaling pathway	KEGG PATHWAY	hsa04071	1	119	0.24528421503	0.267695970718	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa04071/hsa:7124%09red
+Lysosome	KEGG PATHWAY	hsa04142	1	123	0.25234179721	0.274238347431	SLC11A1	http://www.genome.jp/kegg-bin/show_pathway?hsa04142/hsa:6556%09red
+Platelet activation	KEGG PATHWAY	hsa04611	1	124	0.254095968246	0.275680234682	FCGR2A	http://www.genome.jp/kegg-bin/show_pathway?hsa04611/hsa:2212%09red
+Dopaminergic synapse	KEGG PATHWAY	hsa04728	1	131	0.26626169817	0.287428946142	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04728/hsa:9586%09red
+Vascular smooth muscle contraction	KEGG PATHWAY	hsa04270	1	132	0.267983561341	0.28880433929	ADM	http://www.genome.jp/kegg-bin/show_pathway?hsa04270/hsa:133%09red
+FoxO signaling pathway	KEGG PATHWAY	hsa04068	1	132	0.267983561341	0.28880433929	BCL6	http://www.genome.jp/kegg-bin/show_pathway?hsa04068/hsa:604%09red
+Insulin signaling pathway	KEGG PATHWAY	hsa04910	1	137	0.276533107259	0.297273090304	PYGL	http://www.genome.jp/kegg-bin/show_pathway?hsa04910/hsa:5836%09red
+Parkinson disease	KEGG PATHWAY	hsa05012	1	142	0.284983872041	0.304580940292	PPIF	http://www.genome.jp/kegg-bin/show_pathway?hsa05012/hsa:10105%09red
+Cell adhesion molecules (CAMs)	KEGG PATHWAY	hsa04514	1	146	0.291674120508	0.310445227274	VCAN	http://www.genome.jp/kegg-bin/show_pathway?hsa04514/hsa:1462%09red
+Breast cancer	KEGG PATHWAY	hsa05224	1	147	0.2933369846	0.311957716517	JAG1	http://www.genome.jp/kegg-bin/show_pathway?hsa05224/hsa:182%09red
+Adrenergic signaling in cardiomyocytes	KEGG PATHWAY	hsa04261	1	149	0.296651137447	0.314703920482	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04261/hsa:9586%09red
+Oxytocin signaling pathway	KEGG PATHWAY	hsa04921	1	153	0.303233389397	0.320369428601	KCNJ2	http://www.genome.jp/kegg-bin/show_pathway?hsa04921/hsa:3759%09red
+mTOR signaling pathway	KEGG PATHWAY	hsa04150	1	153	0.303233389397	0.320369428601	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa04150/hsa:7124%09red
+Hippo signaling pathway	KEGG PATHWAY	hsa04390	1	154	0.304869409206	0.321834319047	AREG	http://www.genome.jp/kegg-bin/show_pathway?hsa04390/hsa:374%09red
+Cushing syndrome	KEGG PATHWAY	hsa04934	1	155	0.306501629271	0.322501714322	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa04934/hsa:9586%09red
+Hepatitis C	KEGG PATHWAY	hsa05160	1	155	0.306501629271	0.322501714322	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa05160/hsa:7124%09red
+RNA transport	KEGG PATHWAY	hsa03013	1	165	0.32261675441	0.338629465573	EIF1AY	http://www.genome.jp/kegg-bin/show_pathway?hsa03013/hsa:9086%09red
+Tight junction	KEGG PATHWAY	hsa04530	1	170	0.330534849227	0.34581504907	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04530/hsa:998%09red
+Alzheimer disease	KEGG PATHWAY	hsa05010	1	171	0.332107447054	0.347178773662	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa05010/hsa:7124%09red
+Alcoholism	KEGG PATHWAY	hsa05034	1	180	0.346097399851	0.360926148591	CREB5	http://www.genome.jp/kegg-bin/show_pathway?hsa05034/hsa:9586%09red
+Axon guidance	KEGG PATHWAY	hsa04360	1	181	0.347633832981	0.362235577177	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04360/hsa:998%09red
+Kaposi sarcoma-associated herpesvirus infection	KEGG PATHWAY	hsa05167	1	186	0.355262598868	0.36869569794	CXCL1	http://www.genome.jp/kegg-bin/show_pathway?hsa05167/hsa:2919%09red
+Calcium signaling pathway	KEGG PATHWAY	hsa04020	1	193	0.365794833858	0.37810523692	PPIF	http://www.genome.jp/kegg-bin/show_pathway?hsa04020/hsa:10105%09red
+Regulation of actin cytoskeleton	KEGG PATHWAY	hsa04810	1	214	0.396381110734	0.408411847322	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04810/hsa:998%09red
+Endocytosis	KEGG PATHWAY	hsa04144	1	244	0.437560615805	0.448334546774	CDC42	http://www.genome.jp/kegg-bin/show_pathway?hsa04144/hsa:998%09red
+Herpes simplex virus 1 infection	KEGG PATHWAY	hsa05168	1	492	0.687039951137	0.687572953426	TNF	http://www.genome.jp/kegg-bin/show_pathway?hsa05168/hsa:7124%09red
